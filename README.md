@@ -2,13 +2,11 @@
 
 ## index
 
-1. Set up the enviroment
+1. Set up the environment
 1. Create HTML
 1. Styling
 
-
-
-## Set up the enviroment
+## Set up the environment
 
 - git init
 - create index.html
@@ -38,3 +36,5 @@
 - change background and font colour
 - Changed img attributes
 - Changed ibis id attributes
+- Styled links and link attributes
+- Styled footer and header
