@@ -2,8 +2,9 @@
 
 ## index
 
-1. Set up the enviroment 
+1. Set up the enviroment
 1. Create HTML
+1. Styling
 
 
 
@@ -18,3 +19,12 @@
 - Doctype
 - HTML, head and body tags
 - Header and paragraphs
+- Added a 2nd header
+- Added a list
+
+## Styling
+
+- link the CSS file in the HTML
+- Orange background for the header
+- coloured font for 2nd header
+- changed font-size for paragraphs
